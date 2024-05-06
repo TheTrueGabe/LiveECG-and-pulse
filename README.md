@@ -1,1 +1,1 @@
-Čia yra suvesta programa skirta projektui "Elektrokardiografas". Ši programa yra skirta STM32L053R8T6 mikrovaldikliui.
+This is a project for a Cardiograph used to monitor heart activity and display the pulse on an OLED screen. This projects uses an STM32L053R8T6 microcontroller, AD8232 heart monitoring moduel and an ic2 OLED. This project also contains a LiveECG.py script for monitoring HeartActivity and LibSETUP.py script for installing all of the required libraries. 
